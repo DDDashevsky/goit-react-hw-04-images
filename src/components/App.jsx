@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import SearchBar from './Searchbar';
 import fetchAPI from './API';
 import { ToastContainer } from 'react-toastify';
